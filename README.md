@@ -104,9 +104,9 @@ You can deploy this project using Github-Page.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [] **[users will be able to input tasks]**
-- [] **[tasks will be displayed based on their order]**
-- [] **[users will be able to delete tasks that are completed]**
+- [ ] **[users will be able to input tasks]**
+- [ ] **[tasks will be displayed based on their order]**
+- [ ] **[users will be able to delete tasks that are completed]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
